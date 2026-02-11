@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.15.0
+FROM tensorflow/tensorflow:2.21.0rc0
 
 RUN useradd -mr counting_stars
 
